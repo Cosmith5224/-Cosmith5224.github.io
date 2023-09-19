@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: teal;
 }
 
 #nav-table {
@@ -12,4 +12,8 @@ body {
 
 h1 {
     color:brown;
+}
+
+p {
+    color:whitesmoke;
 }
