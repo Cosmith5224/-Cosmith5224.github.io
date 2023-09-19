@@ -1,0 +1,15 @@
+body {
+    background-color: aquamarine;
+}
+
+#nav-table {
+    width: 800px;
+}
+
+#nav-td {
+    width: 266px; text-align: center;
+}
+
+h1 {
+    color:brown;
+}
